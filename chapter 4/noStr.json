@@ -1,0 +1,12 @@
+{
+    "Name": "John",
+    "Surname": "Doe",
+    "Parents":[
+        "Jim", "Mary"
+    ],
+    "Tel":[
+        {"Mobile":true,"Number":"1234-567"},
+        {"Mobile":true,"Number":"1234-abcd"},
+        {"Mobile":false,"Number":"abcd-567"}
+    ]
+}
